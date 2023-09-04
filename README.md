@@ -1,4 +1,3 @@
-# portfolio-website
 # Personal Portfolio 🔥
 > https://emayanvadivel.netlify.app/
 
